@@ -1,6 +1,6 @@
 {
   "name": "proxy-server-cors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A proxy server to handle cors",
   "main": "dist/cjs/index.js",
   "bin": {
